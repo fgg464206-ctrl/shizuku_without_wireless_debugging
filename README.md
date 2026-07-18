@@ -1,9 +1,13 @@
-.Disclaimer
-​This tool is designed for educational and experimental purposes only.
-​Non-Official Tool: This script is not affiliated with the official Shizuku project.
-​No System Modification: While this tool helps start the Shizuku service via OTG, it does not modify your device's original system files or firmware.
-​Use at Your Own Risk: By using this tool, you acknowledge that you are doing so at your own risk. The developer is not responsible for any unexpected behavior or device issues.
-​Data Safety: We strongly recommend having a basic understanding of ADB and Termux commands before proceeding
+​⚠️ Disclaimer ⚠️
+​This tool is for educational purposes only
+
+​The developer is not responsible for any device issues or data loss.
+
+
+​Please use it at your own risk.
+
+
+​This tool is not affiliated with the official Shizuku project
 
 📋 REQUIREMENTS
 1. Android Phone with USB Debugging ON

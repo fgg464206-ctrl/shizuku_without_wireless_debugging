@@ -16,7 +16,7 @@ pkg update -y
 
 pkg install android-tools wget -y
 
-
 wget https://raw.githubusercontent.com/fgg464206-ctrl/shizuku_without_wireless_debugging/main/shizuku_without_wireless_debugging.sh
-chmod +x shizuku_without_wireless_debugging.sh
+
+
 ./shizuku_without_wireless_debugging.sh
